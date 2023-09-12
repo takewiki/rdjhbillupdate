@@ -10,7 +10,7 @@ from setuptools import find_packages
 
 setup(
     name='rdjhbillupdate',
-    version='1.1.1',
+    version='1.2.8',
     install_requires=[
         'requests',
     ],
