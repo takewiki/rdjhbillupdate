@@ -1,0 +1,8 @@
+setup.py
+rdjhbillupdate/BILLUpdateMain.py
+rdjhbillupdate/__init__.py
+rdjhbillupdate.egg-info/PKG-INFO
+rdjhbillupdate.egg-info/SOURCES.txt
+rdjhbillupdate.egg-info/dependency_links.txt
+rdjhbillupdate.egg-info/requires.txt
+rdjhbillupdate.egg-info/top_level.txt
